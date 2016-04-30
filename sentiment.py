@@ -63,10 +63,10 @@ if __name__ == '__main__':
     print 'F1 Score = {}'.format(f1)
     print '\n'
 
-    print 'Saving classifier to pickel...'
+    print 'Saving classifier to pickle...'
     joblib.dump(classifier, 'classifier.pkl', compress=9)
 
-    print 'Saving vectorizer to pickel...'
+    print 'Saving vectorizer to pickle...'
     joblib.dump(vectorizer, 'vectorizer.pkl', compress=9)
 
     print 'Pickling completed!'
