@@ -33,6 +33,6 @@ The standard pandas, numpy and scikit-learn libraries are needed.
 
 ### License
 
-Some of the code is from Ray Rosario's (Facebook) talk at PyData (see Resources).
+Some of the code is from Ryan Rosario's (Facebook) talk at PyData (see Resources).
 
 The remainder is licensed under MIT (see LICENSE).
