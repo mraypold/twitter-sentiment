@@ -6,7 +6,7 @@ This is a really basic introduction to SA. For a more interesting approach see t
 
 Also note that tweets in this case are either labeled as positive or negative. In reality a tweet could be neutral (eg: the person is stating a fact). Once again, see the resources section for a more thorough overview.
 
-Finally, the accuracy (with the current implementation) is about 77%.
+Finally, the accuracy (with the current implementation) is about 77% for the tested dataset. However, I have found this did not translate very well to real world testing.
 
 ### Files
 
